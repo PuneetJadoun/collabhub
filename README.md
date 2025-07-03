@@ -1,15 +1,52 @@
-# CollabHub
+# 🚀 CollabHub
 
-A collaboration platform for college students to find project partners, share resources, and grow together.
+CollabHub is a collaboration platform for college students to find project partners, internship buddies, and share resources.
 
-## Project Status
+---
 
-🚧 *Work in progress - Week 1: Setting up landing and login pages.*
+## 🟦 Project Phase
 
-## Tech Stack
+**Week 1 — Frontend Development**
 
-- React
-- Tailwind CSS
+- Landing Page (before login)
+- Landing Page (after login)
+- Login Page
 
+---
 
-*Project kick-off — more details coming soon!*
+## ✨ Tech Stack
+
+- Frontend: React + Tailwind CSS
+- Backend: (planned) Node.js + Express
+- Database: (planned) MongoDB
+- Auth: (planned) Firebase or JWT
+
+---
+
+## 👥 Maintainers
+
+- [@Puneet Kumar Singh](https://github.com/PuneetJadoun)
+- @teammate1
+- @teammate2
+
+---
+
+## 📄 License
+
+Planned: MIT License
+
+---
+
+## 📬 Contact
+
+- will be available soon
+
+---
+
+## 🛠️ Getting Started
+
+Setup instructions for the frontend will be added soon.
+
+---
+
+*Let’s collaborate, learn, and grow together with CollabHub!*
