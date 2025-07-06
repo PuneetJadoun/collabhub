@@ -26,8 +26,8 @@ CollabHub is a collaboration platform for college students to find project partn
 ## 👥 Maintainers
 
 - [@Puneet Kumar Singh](https://github.com/PuneetJadoun)
-- @teammate1
-- @teammate2
+- [@Harsh Kumar](https://github.com/HarshKumar100)
+- [@Prakhar ](https://github.com/Necrosyth)
 
 ---
 
